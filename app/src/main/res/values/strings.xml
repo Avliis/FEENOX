@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FEENOX APP</string>
+    <string name="collect_feeling">Collect\nFeeling</string>
+    <string name="moments">Moments</string>
+    <string name="description">Description</string>
+    <string name="collect_now">Collect Now</string>
+    <string name="empty_list">Empty List</string>
+    <string name="update_now">Update Now</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="don_t_have_account">Don\'t have account</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="click_here">Click here</string>
+    <string name="register">Register</string>
+    <string name="have_account">Already have account</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="logout_now">Logout Now</string>
+</resources>
